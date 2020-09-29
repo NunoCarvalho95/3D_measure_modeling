@@ -15,6 +15,7 @@ Attention- The clothes have to be as tight as possible to stay close to reality,
 
 1-Open Maya and Run the script modeling.py 
 Atention-This only works for  models in "T" stands. 
+Change all measures on comments "..real measures" and height  
 
 
 Update Version !!!! : https://drive.google.com/file/d/19M73fIGUCt3g5QJgkt6mH-cmq_fs0zJn/view?usp=sharing
